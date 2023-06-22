@@ -1,0 +1,43 @@
+{
+  "languages": [
+    { "name": "javascript", "img-url": "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" },
+    { "name": "typescript", "img-url": "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" },
+    { "name": "python", "img-url": "https://img.shields.io/badge/Python-006ACC?style=for-the-badge&logo=python&logoColor=FFF000" },
+    { "name": "java", "img-url": "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" }
+  ],
+  "frameworks": [
+    { "name": "nodejs", "img-url": "https://img.shields.io/badge/Node.js-2BA84A?style=for-the-badge&logo=node.js&logoColor=white" },
+    { "name": "html", "img-url": "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" },
+    { "name": "css", "img-url": "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" },
+    { "name": "react", "img-url": "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" },
+    { "name": "tsnode", "img-url": "https://img.shields.io/badge/ts--node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white" },
+    { "name": "redux", "img-url": "https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" },
+    { "name": "express", "img-url": "https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" },
+    { "name": "sequelize", "img-url": "https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" },
+    { "name": "jwt", "img-url": "https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" }
+  ],
+  "databases": [
+    { "name": "mysql", "img-url": "https://img.shields.io/badge/MySQL-003545?style=for-the-badge&logo=mysql&logoColor=white" },
+    { "name": "mongodb", "img-url": "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" },
+    { "name": "postgresql", "img-url": "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" }
+  ],
+  "testing": [
+    { "name": "jest", "img-url": "https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" },
+    { "name": "mocha", "img-url": "https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown" },
+    { "name": "chai", "img-url": "https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red" },
+    { "name": "sinon", "img-url": "https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon" },
+    { "name": "testing-library", "img-url": "https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red" }
+  ],
+  "versioning": [
+    { "name": "npm", "img-url": "https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" },
+    { "name": "git", "img-url": "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" },
+    { "name": "github", "img-url": "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" }
+  ],
+  "others": [
+    { "name": "heroku", "img-url": "https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" },
+    { "name": "vscode", "img-url": "https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" },
+    { "name": "docker", "img-url": "https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" },
+    { "name": "eslint", "img-url": "https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" },
+    { "name": "ubuntu", "img-url": "https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" }
+  ]
+}
